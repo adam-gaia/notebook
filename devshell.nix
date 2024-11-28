@@ -20,6 +20,7 @@ in
       {
         packages = with pkgs;
           [
+            just
             mdbook
           ]
           # Include treefmt and formatters
