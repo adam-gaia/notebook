@@ -1,4 +1,4 @@
 # Summary
 
 - [Introduction](./introduction.md)
-- [Chapter 1](./chapter_1.md)
+- [Blessed.rs](./blessed-rs.md)
