@@ -3,10 +3,12 @@
 - [Introduction](./README.md)
 
 # About Me
+
 - [History.md](./src/about/history.md)
 - [Computing](./src/about/computing.md)
 
 # Projects
+
 - [Projects](./src/projects/README.md)
   - [nixos-config](./src/projects/nixos-config.md)
   - [rust-crates](./src/projects/rust-crates.md)
@@ -22,8 +24,7 @@
   - [taskhelper](./src/projects/task-helper.md)
   - [toml-path](./src/projects/toml-path.md)
   - [varpath](./src/projects/varpath.md)
-  
+
 # References
+
 - [Blessed.rs](./src/references/blessed-rs.md)
-
-

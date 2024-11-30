@@ -8,7 +8,6 @@ This document is tracked on GitHub in [this repository](https://github.com/adam-
 
 This document was inspired by [James Munns](https://github.com/jamesmunns)' [Lab Notebook](https://lab.jamesmunns.com).
 
-
 ## License
 
 This document is licensed under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
