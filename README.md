@@ -2,7 +2,8 @@
 
 This([my](https://github.com/adam-gaia) public notebook, somewhere between a blog and brain dump.
 This is mostly meant for my reference, but hopefully something here will help someone out one day.
-Pull requests welcome, but since these are my personal notes it's not guaranteed I'll accept a PR.
+The writings may be ramblely, incomplete or even factually wrong. Again, these are my informal, personal notes I take as I work.
+Pull requests welcome, but it's not guaranteed I'll accept anything.
 
 This document is tracked on GitHub in [this repository](https://github.com/adam-gaia/notebook).
 
