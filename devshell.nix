@@ -22,6 +22,8 @@ in
           [
             just
             mdbook
+            rustc # For rustdoc, required by mdbook
+            unionfs-fuse
           ]
           # Include treefmt and formatters
           ++ treefmt-programs
